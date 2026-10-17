@@ -2,7 +2,7 @@
 
 A Flutter calculator with a responsive interface. It handles input as you type and updates the displayed result.
 
-![Calculator screenshot](docs/screenshot.png)
+![Calculator](assets/Calculator_App.png)
 
 ## Features
 
