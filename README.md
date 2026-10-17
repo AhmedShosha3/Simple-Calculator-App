@@ -16,6 +16,7 @@ A Flutter calculator with a responsive interface. It handles input as you type a
 
 Flutter · Dart · UI state management for input and result display
 
+Font: Antic Didone, licensed under the SIL Open Font License.
 ## Run it
 
 ```bash
