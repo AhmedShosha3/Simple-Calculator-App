@@ -1,16 +1,30 @@
-# calculator
+# Simple Calculator
 
-A new Flutter project.
+A Flutter calculator with a responsive interface. It handles input as you type and updates the displayed result.
 
-## Getting Started
+![Calculator screenshot](docs/screenshot.png)
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Basic arithmetic operations
+- Percentage calculations
+- Decimal handling
+- Clear and reset functions
+- Responsive layout
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Built with
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter · Dart · UI state management for input and result display
+
+## Run it
+
+```bash
+flutter pub get
+flutter run
+```
+
+Requires the [Flutter SDK](https://docs.flutter.dev/get-started/install).
+
+## Author
+
+Ahmed Ibrahim Mohamed Kamel · [GitHub](https://github.com/AhmedShosha3) · [LinkedIn](https://www.linkedin.com/in/ahmed-shosha-212192296/)
