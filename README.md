@@ -12,11 +12,13 @@ A Flutter calculator with a responsive interface. It handles input as you type a
 - Clear and reset functions
 - Responsive layout
 
+## Font
+Antic Didone, licensed under the SIL Open Font License.
+
 ## Built with
 
 Flutter · Dart · UI state management for input and result display
 
-Font: Antic Didone, licensed under the SIL Open Font License.
 ## Run it
 
 ```bash
