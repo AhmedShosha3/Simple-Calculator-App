@@ -1,7 +1,5 @@
 # Simple Calculator
 
-## Overview
-
 A Flutter calculator with a responsive interface. It handles input as you type and updates the displayed result.
 
 ![Calculator](assets/Calculator_App.png)
